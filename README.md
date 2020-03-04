@@ -1,2 +1,9 @@
-# RWBYAdventure
-Pues es la segunda parte de una aventura gráfica
+# RWBYAdventure 
+ 
+## _**Descripción de la trama**_  
+  
+    
+## _**El personaje**_  
+  
+  
+## _**Como jugar**_
